@@ -7,6 +7,9 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+/**
+ * mybatis 注解版
+ */
 @Repository
 @Mapper
 public interface AuthorMapper {
