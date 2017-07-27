@@ -1,5 +1,6 @@
 package com.example.demo.controller;
-
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import com.example.demo.entity.Author;
 import com.example.demo.service.IAutherService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,6 +17,9 @@ import java.util.List;
 @RestController
 @RequestMapping("/user")
 public class DbController {
+
+    private final static Logger logger = LoggerFactory.getLogger(DbController.class);
+
     @Autowired
     private IAutherService iAutherService ;
     /**
@@ -23,7 +27,7 @@ public class DbController {
      */
     @RequestMapping("/")
     public List<Author> getAll() {
-
+        logger.info("getUser");
         List<Author> user= iAutherService.authorList();
         return user;
     }
