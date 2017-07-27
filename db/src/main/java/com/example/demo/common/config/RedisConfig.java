@@ -25,6 +25,10 @@ import java.lang.reflect.Method;
 @EnableCaching
 public class RedisConfig extends CachingConfigurerSupport{
 
+    /**
+     * 自定义缓存策略
+     * @return
+     */
     @Bean
     public KeyGenerator wiselyKeyGenerator(){
         return new KeyGenerator() {
