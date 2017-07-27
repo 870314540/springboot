@@ -10,7 +10,7 @@ target/
 .springBeans
 
 ### IntelliJ IDEA ###
-.idea
+.idea/*
 *.iws
 *.iml
 *.ipr
@@ -23,10 +23,3 @@ dist/
 nbdist/
 .nb-gradle/
 
-/*.project
-/.settings
-/*.classpath
-/*.ipr
-/*.iws
-/*.iml
-/.idea

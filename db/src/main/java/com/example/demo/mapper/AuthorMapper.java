@@ -5,6 +5,8 @@ import org.apache.ibatis.annotations.*;
 import org.apache.ibatis.type.JdbcType;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 @Repository
 @Mapper
 public interface AuthorMapper {
@@ -41,6 +43,22 @@ public interface AuthorMapper {
         @Result(column="lifetime", property="lifetime", jdbcType=JdbcType.VARCHAR)
     })
     Author selectByPrimaryKey(Integer id);
+
+    @Select({
+            "select",
+            "id, author_name, gender, destiny, lifetime",
+            "from author"
+    })
+    @Results({
+            @Result(column="id", property="id", jdbcType=JdbcType.INTEGER, id=true),
+            @Result(column="author_name", property="authorName", jdbcType=JdbcType.VARCHAR),
+            @Result(column="gender", property="gender", jdbcType=JdbcType.INTEGER),
+            @Result(column="destiny", property="destiny", jdbcType=JdbcType.VARCHAR),
+            @Result(column="lifetime", property="lifetime", jdbcType=JdbcType.VARCHAR)
+    })
+    List<Author> getAll();
+
+
 
     @UpdateProvider(type=AuthorSqlProvider.class, method="updateByPrimaryKeySelective")
     int updateByPrimaryKeySelective(Author record);

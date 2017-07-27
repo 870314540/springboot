@@ -17,10 +17,9 @@ public class AuthorService  implements IAutherService{
     private AuthorMapper authorMapper ;
 
     public List<Author> authorList(){
-//        List<Author> authorList = authorMapper.getAll();
-//        return  authorList;
-        return null;
-    }
+        List<Author> authorList = authorMapper.getAll();
+        return  authorList;
+     }
     public Author getAuthorById(Integer id){
         Author author= authorMapper.selectByPrimaryKey(id);
         return author;
