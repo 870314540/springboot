@@ -17,7 +17,7 @@ public class AuthorService  implements IAutherService{
 
     @Autowired
     private AuthorMapper authorMapper ;
-    @Cacheable(value="authorList",keyGenerator = "wiselyKeyGenerator")
+    //@Cacheable(value="authorList",keyGenerator = "wiselyKeyGenerator")
     public List<Author> authorList(){
          List<Author> authorList = authorMapper.getAll();
         return  authorList;
