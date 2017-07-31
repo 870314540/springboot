@@ -13,8 +13,10 @@ public class StartTest {
 //        t1.start();
 //        t2.start();
         //实例2 ：实现Runnable接口
-        new Thread(new Thread2("t3")).start();
-        new Thread(new Thread2("t4")).start();
+//        new Thread(new Thread2("t3")).start();
+//        new Thread(new Thread2("t4")).start();
+        //实例3：
+
 
 
 
