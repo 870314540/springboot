@@ -1,5 +1,7 @@
 package com.example.demo.controller.vo;
 
+import org.springframework.data.jpa.repository.JpaRepository;
+
 /**
  * Created by lenovo on 2017/8/1.
  */
