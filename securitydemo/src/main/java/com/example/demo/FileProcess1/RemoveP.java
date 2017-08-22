@@ -1,4 +1,4 @@
-package FileProcess1;
+package com.example.demo.FileProcess1;
 
 import java.io.*;
 import java.util.HashSet;
@@ -106,7 +106,7 @@ public class RemoveP {
             while (it.hasNext()) {
                 sb.append("'"+it.next() + "',");
 
-                if( i % 100  == 0 ){
+                if( i!= 0 && i % 100  == 0 ){
                     sb.append("\r\n");
                 }
                 i++;
@@ -123,7 +123,7 @@ public class RemoveP {
     public static String catSql(Set strSet) {
         int len = strSet.size();
         // sql 语句
-        String strsql = "sql ";
+        String strsql = "update t_recoup_job set job_status='failed' , fail_reason='20170825异常情况' where job_status='execute' and job_desc like '锁%' and job_json_param like '%";
         if (0 != len  && null != strSet) {
             StringBuffer sb = new StringBuffer("");
 
@@ -134,7 +134,7 @@ public class RemoveP {
             int i = 0;
             while (it.hasNext()) {
 
-                sb.append(strsql+"'"+it.next() + "';"+"\r\n");
+                sb.append(strsql+""+it.next() + "%';"+"\r\n");
 
             }
             return sb.toString();
@@ -151,14 +151,13 @@ public class RemoveP {
 
     public static  void main(String[] args){
         String a = "1,2,3,4,5,6,7,7";
-        String readFile = "";
+        String readFile = "E://822.txt";
         String writeFile = "";
+        //cat(duplicate(readFile(readFile)));
+      //  System.out.println(catSql(duplicate(readFile(readFile))));
+        System.out.println(cat(duplicate(readFile(readFile))));
 
 
-
-
-        System.out.print(cat(duplicate(a)));
-        System.out.print(catSql(duplicate(a)));
 
     }
 

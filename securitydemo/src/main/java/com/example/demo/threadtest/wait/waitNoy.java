@@ -2,6 +2,7 @@ package com.example.demo.threadtest.wait;
 
 import java.util.Vector;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * Created by lenovo on 2017/8/9.
@@ -34,11 +35,11 @@ public class waitNoy extends Thread{
 //        Thread.sleep(500);
 //        System.out.println(waitNoy.ai.get());
     //   System.out.println(waitNoy.ai );
+        int q = 655555;
+        System.out.println((q << 6) + (q << 5) + (q << 2));
 
 
-        String str= "SZZZCWZ81610102658\",\"contractId\":17645,\"type\":5}" ;
-        String sb = str.split("\"")[0];
-        System.out.println(sb);
+
     }
 
 
