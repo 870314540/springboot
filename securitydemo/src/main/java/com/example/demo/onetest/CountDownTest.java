@@ -1,10 +1,19 @@
 package com.example.demo.onetest;
 
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.TimeUnit;
 
 /**
  * Created by lenovo on 2017/8/23.
+ * CountDownLatch ：用来同步一个或者多个执行多个任务的线程。它只能使用一次。
+ * CountDownLatch类有3个基本元素：
+
+    初始值决定CountDownLatch类需要等待的事件的数量。
+    await() 方法, 被等待全部事件终结的线程调用。 （await(long time, TimeUnit unit): ）
+    countDown() 方法，事件在结束执行后调用。
+ * countDownLatch.countDown(); 建议放在 finally里执行
  */
+
 public class CountDownTest {
 
     public static void main(String[] args) throws InterruptedException {
