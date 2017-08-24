@@ -151,7 +151,7 @@ public class RemoveP {
 
     public static  void main(String[] args){
         String a = "1,2,3,4,5,6,7,7";
-        String readFile = "E://822.txt";
+        String readFile = "E://824.txt";
         String writeFile = "";
         //cat(duplicate(readFile(readFile)));
       //  System.out.println(catSql(duplicate(readFile(readFile))));
