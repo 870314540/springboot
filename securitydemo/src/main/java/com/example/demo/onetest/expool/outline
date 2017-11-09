@@ -1,6 +1,22 @@
 线程池作用就是限制系统中执行线程的数量。
 
+
 Java里面线程池的顶级接口是Executor，但是严格意义上讲Executor并不是一个线程池，而只是一个执行线程的工具。真正的线程池接口是ExecutorService。
+JDK 中实现 ExecutorService 的类有：
+
+•ForkJoinPool
+•ThreadPoolExecutor
+•ScheduledThreadPoolExecutor
+
+每个线程池由几个模块组成：
+
+•一个任务队列,
+•一个工作线程的集合,
+•一个线程工厂,
+•管理线程状态的元数据。
+
+
+
 
 
 四种线程池：
@@ -36,7 +52,30 @@ public ThreadPoolExecutor(int corePoolSize,
              new ThreadPoolExecutor(1, 1,
                                     0L, TimeUnit.MILLISECONDS,
                                     new LinkedBlockingQueue<Runnable>())
+
+
+
+ RejectionExecutionHandler。你可以自定义处理器或者从4个已有处理器（默认AbortPolicy）中选择一个：
+
+•CallerRunsPolicy
+•AbortPolicy
+•DiscardPolicy
+•DiscardOldestPolicy
+
+
 新增的两种
 newSingleThreadScheduledExecutor()：根据时间计划延迟创建单个工作线程 ExecutorService（或者周期性的创建）。
 
 newWorkStealingPool()：创建一个拥有多个任务队列（以便减少连接数）的 ExecutorService
+
+
+
+
+
+ Callable 有输出结果，而 Runnable 没有。
+
+
+
+
+
+在 Java 8中，我们可以使用更优秀的 CompletableFuture，

@@ -125,7 +125,10 @@ public class RemoveP {
         // sql 语句
         //String strsql = "update t_recoup_job set job_status='failed' , fail_reason='20170825异常情况' where job_status='execute' and job_desc like '锁%' and job_json_param like '%";
 
-        String strsql="update tb_contract set status_code='ygb',last_modify_time = NOW() where   status_code ='dzf' and rent_contract_code='" ;
+        //String strsql="update tb_contract set status_code='ygb',last_modify_time = NOW() where   status_code ='dzf' and rent_contract_code='" ;
+
+        String strsql="update tb_contract set urge_type='3' ,contract_type='3' " +
+                "where rent_contract_code in (";
 
         if (0 != len  && null != strSet) {
             StringBuffer sb = new StringBuffer("");
@@ -141,7 +144,7 @@ public class RemoveP {
 
                 sb.append(strsql+""+it.next() + "';"+"\r\n");
 
-            }
+              }
             return sb.toString();
 
 //            String  tmpStr = sb.toString();
@@ -156,12 +159,12 @@ public class RemoveP {
 
     public static  void main(String[] args){
         String a = "1,2,3,4,5,6,7,7";
-        String readFile = "E://8241.txt";
+        String readFile = "E://0919.txt";
         String writeFile = "";
         //cat(duplicate(readFile(readFile)));
        //System.out.println(catSql(duplicate(readFile(readFile))));
-        System.out.println(cat(duplicate(readFile(readFile))));
-
+        //System.out.println(cat(duplicate(readFile(readFile))));
+        System.out.println(catSql(duplicate(readFile(readFile))));
 
 
     }
