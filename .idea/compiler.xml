@@ -9,12 +9,14 @@
         <module name="db" />
         <module name="qr" />
         <module name="securitydemo" />
+        <module name="usualtest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="db" target="1.8" />
       <module name="qr" target="1.8" />
       <module name="securitydemo" target="1.8" />
+      <module name="usualtest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

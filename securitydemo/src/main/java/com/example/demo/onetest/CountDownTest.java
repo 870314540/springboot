@@ -1,5 +1,6 @@
 package com.example.demo.onetest;
 
+import java.util.*;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
@@ -47,6 +48,19 @@ public class CountDownTest {
 
         countDownLatch.await();
         System.out.println(123);  //123 肯定在 1 和3 之后
+
+//        int curMonth=Calendar.getInstance().get(Calendar.DAY_OF_MONTH);
+//
+//        System.out.println(curMonth);
+
+        String str1= "12,123,4,5,8,99,6,888,";
+        String[] strs = str1.split(",");
+        List<String> list = Arrays.asList(strs);
+
+        System.out.println(list.contains("12"));
+
+
     }
+
 
 }

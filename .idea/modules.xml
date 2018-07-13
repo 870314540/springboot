@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qr/qr.iml" filepath="$PROJECT_DIR$/qr/qr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/securitydemo/securitydemo.iml" filepath="$PROJECT_DIR$/securitydemo/securitydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usualtest/usualtest.iml" filepath="$PROJECT_DIR$/usualtest/usualtest.iml" />
+    </modules>
+  </component>
+</project>
