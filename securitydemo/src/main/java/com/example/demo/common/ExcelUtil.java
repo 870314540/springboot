@@ -18,11 +18,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * @author cuiyt
- * @Descrption
- * @create 2018/7/13
- */
+
 public class ExcelUtil {
     private final static Logger log = LoggerFactory.getLogger(ExcelUtil.class);
 
@@ -209,7 +205,7 @@ public class ExcelUtil {
             ncell.setCellValue(content.get(i).get(2));
         }
         //创建excel文件
-        File file = new File("/Users/cuiyt/Documents/work/poi.xlsx");
+        File file = new File("poi.xlsx");
         try {
             file.createNewFile();
             //将excel写入
@@ -230,7 +226,7 @@ public class ExcelUtil {
 
 
         ExcelUtil poi = new ExcelUtil();
-        List<List<String>> list = poi.read("/Users/cuiyt/Documents/work/yimeitest.xlsx");
+        List<List<String>> list = poi.read("111.xlsx");
         List<List<String>> resultList = new LinkedList<>();
         if (list != null) {
             for (int i = 1; i < list.size(); i++) {

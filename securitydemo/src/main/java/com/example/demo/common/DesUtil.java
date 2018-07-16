@@ -10,11 +10,7 @@ import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 import java.security.SecureRandom;
 
-/**
- * @author cuiyt
- * @Descrption
- * @create 2018/7/13
- */
+
 public class DesUtil {
 //    public static byte[] desCrypto(byte[] datasource, String password) {
 //        try {
@@ -69,7 +65,7 @@ public class DesUtil {
 //            e1.printStackTrace();
 //        }
 //    }
-private static String password = "rrxdh123";
+private static String password = "12312312";
     //测试
     public static void main(String args[]) {
 //        //待加密内容
@@ -81,7 +77,7 @@ private static String password = "rrxdh123";
 ////        String strs = new String(base64en.encode(result));
 //
 //        System.out.println("加密后："+result);
-        String result="jrEgtkEkm+A=";
+        String result="hPdOZmjUGAokIOXXNdp/0Q==";
         //直接将如上内容解密
         try {
             String decryResult = DesUtil.decryptor(result);
