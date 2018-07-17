@@ -14,7 +14,6 @@ public class ConfigController {
     private String myname;
     @RequestMapping("/name")
     public String getConfig() {
-
          return myname;
     }
 }
