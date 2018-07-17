@@ -2,10 +2,11 @@ package com.example.demo.controller;
 
 import com.example.demo.es.ESService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-import sun.misc.Contended;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * @author cuiyt
@@ -16,8 +17,19 @@ import sun.misc.Contended;
 public class ESController {
     @Autowired
     private ESService esService;
-    @RequestMapping("/")
-    public String getResult() {
+
+    @Value("123")
+    private String myname;
+
+    @PostMapping("/name")
+    public @ResponseBody
+    String getConfig() {
+        return myname;
+    }
+
+
+    @PostMapping("/getResult")
+    public @ResponseBody String getResult() {
         return esService.getResult();
     }
 }
