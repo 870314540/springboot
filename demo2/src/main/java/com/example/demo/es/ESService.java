@@ -1,5 +1,6 @@
 package com.example.demo.es;
 
+import org.aopalliance.intercept.Joinpoint;
 import org.elasticsearch.action.get.GetRequest;
 import org.elasticsearch.action.get.GetResponse;
 import org.slf4j.Logger;
