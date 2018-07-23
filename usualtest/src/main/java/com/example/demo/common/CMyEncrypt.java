@@ -66,6 +66,6 @@ public class CMyEncrypt {
         return hexDigits[d1] + hexDigits[d2];
     }
     public static void main(String[] args) {
-        CMyEncrypt.md5("http://tech.sina.com.cn/i/2011-03-23/11285321288.shtml");
+        System.out.println(CMyEncrypt.md5("http://tech.sina.com.cn/i/2011-03-23/11285321288.shtml"));
     }
 }
