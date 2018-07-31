@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac0f014-a005-4c3c-aac1-20d8c3776a78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_43.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/db/target/" />
     <ignored path="$PROJECT_DIR$/securitydemo/target/" />
@@ -25,47 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestReflect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/TestReflect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/UserEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bean1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bean2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+            <state relative-caret-position="341">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,32 +44,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/usualtest/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="27" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanUtils.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../../work/repository/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4470">
-              <caret line="331" column="23" selection-start-line="331" selection-start-column="23" selection-end-line="331" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            <state relative-caret-position="242">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#304#319#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,6 +73,7 @@
       <find>SampleEntity</find>
       <find>Y</find>
       <find>getIdCardAddress</find>
+      <find>888469301135142918</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -211,7 +152,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="31" />
     <option name="y" value="23" />
     <option name="width" value="1409" />
@@ -225,9 +166,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -544,7 +485,8 @@
       <workItem from="1531879522378" duration="241000" />
       <workItem from="1532312014011" duration="1503000" />
       <workItem from="1532687000910" duration="4464000" />
-      <workItem from="1532850869425" duration="1821000" />
+      <workItem from="1532850869425" duration="2125000" />
+      <workItem from="1533030275295" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="volatile">
       <created>1527692081667</created>
@@ -564,7 +506,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53145000" />
+    <option name="totallyTimeSpent" value="55490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -576,7 +518,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="23" width="1409" height="877" extended-state="1" />
+    <frame x="31" y="23" width="1409" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -590,18 +532,18 @@
       <window_info id="Structure" order="1" sideWeight="0.5019685" side_tool="true" weight="0.24579372" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39871794" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.34871796" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.24945135" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.253109" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -627,7 +569,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -916,20 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/TestReflect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
@@ -944,6 +886,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/TestReflect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="331" column="23" selection-start-line="331" selection-start-column="23" selection-end-line="331" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -954,37 +934,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4470">
-          <caret line="331" column="23" selection-start-line="331" selection-start-column="23" selection-end-line="331" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        <state relative-caret-position="242">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#304#319#0" expanded="true" />
           </folding>
         </state>
       </provider>

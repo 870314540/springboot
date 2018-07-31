@@ -41,5 +41,8 @@ public class TestBean {
         BeanUtils.copyProperties(bean11, bean3);
         System.out.println(JSON.toJSONString(bean3));
 
+
+
+
     }
 }
