@@ -4,7 +4,6 @@
     <list default="true" id="1ac0f014-a005-4c3c-aac1-20d8c3776a78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/db/target/" />
     <ignored path="$PROJECT_DIR$/securitydemo/target/" />
@@ -23,7 +22,7 @@
       <file leaf-file-name="TestBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
+            <state relative-caret-position="645">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,10 +46,11 @@
       <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="553">
+              <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#277#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,9 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,6 +233,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -486,7 +486,8 @@
       <workItem from="1532312014011" duration="1503000" />
       <workItem from="1532687000910" duration="4464000" />
       <workItem from="1532850869425" duration="2125000" />
-      <workItem from="1533030275295" duration="2041000" />
+      <workItem from="1533030275295" duration="2342000" />
+      <workItem from="1533192707591" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="volatile">
       <created>1527692081667</created>
@@ -506,7 +507,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55490000" />
+    <option name="totallyTimeSpent" value="57051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,7 +520,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1409" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -532,18 +532,18 @@
       <window_info id="Structure" order="1" sideWeight="0.5019685" side_tool="true" weight="0.24579372" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39871794" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871794" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.34871796" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.253109" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.25676665" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -909,7 +909,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="645">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -936,10 +936,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="553">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#277#293#0" expanded="true" />
           </folding>
         </state>
       </provider>

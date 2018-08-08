@@ -49,5 +49,14 @@ public class StringTest {
         }
         System.out.println(name);
 
+        String cityName = "黄";
+        System.out.println(cityName.length());
+
+        String city = "11 ";
+//        city = city.trim();
+        System.out.println(city);
+
+
+
     }
 }
