@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac0f014-a005-4c3c-aac1-20d8c3776a78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/db/target/" />
@@ -22,7 +21,7 @@
       <file leaf-file-name="TestBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="630">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -46,11 +45,10 @@
       <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+            <state relative-caret-position="351">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#277#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,24 +217,12 @@
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="usualtest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,6 +475,7 @@
       <workItem from="1532850869425" duration="2125000" />
       <workItem from="1533030275295" duration="2342000" />
       <workItem from="1533192707591" duration="1260000" />
+      <workItem from="1533697014423" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="volatile">
       <created>1527692081667</created>
@@ -507,7 +495,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57051000" />
+    <option name="totallyTimeSpent" value="57314000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -520,6 +508,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1409" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -534,7 +523,6 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39871794" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32884097" />
@@ -542,8 +530,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34871796" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.25676665" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34871796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.2604243" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -551,6 +539,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -569,20 +558,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="20" />
     </breakpoint-manager>
   </component>
@@ -909,7 +884,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state relative-caret-position="630">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -936,11 +911,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        <state relative-caret-position="351">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#277#293#0" expanded="true" />
           </folding>
         </state>
       </provider>

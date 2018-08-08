@@ -16,19 +16,18 @@ public class StringTest {
         String appIds[] = new String[2];
         appIds[1] = "1";
         appIds[0] = s1;
-
-
+        //数组拼的字符串
         String s2 = "[0," + s1 + "]";
         resultMap.put("m1", JSON.toJSONString(appIds));
         resultMap.put("m2", s2);
 
         System.out.println(JSON.toJSONString(resultMap));
 
-
+        //Long to String
         Long resutl1 = 888469301135142918L;
         System.out.println(resutl1.toString());
 
-
+        //set map contains
         Map<String, Integer> resultMap1 = new LinkedHashMap<>();
         System.out.println(resultMap1.get("321"));
 
@@ -36,7 +35,7 @@ public class StringTest {
 
         System.out.println(nullSet.contains("321"));
 
-
+        //正则匹配：斜线的问题
         UserEntity entity = new UserEntity();
         entity.setUserName("焦作/济源");
         entity.setUserAge(19);
@@ -53,9 +52,8 @@ public class StringTest {
         System.out.println(cityName.length());
 
         String city = "11 ";
-//        city = city.trim();
+        //        city = city.trim();
         System.out.println(city);
-
 
 
     }
