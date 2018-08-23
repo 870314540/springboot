@@ -26,7 +26,7 @@ public class ThreadPool1 {
             pool.execute(new Runnable() {
                 @Override
                 public void run() {
-                    System.out.println("hello");
+//                    System.out.println("hello");
                     count.countDown();
                 }
             });
@@ -36,7 +36,7 @@ public class ThreadPool1 {
 
         }
         long end = System.currentTimeMillis();
-        System.out.println("50个线程都执行完了,共用时:"+(end-start)+"ms");
+        System.out.println("50000个线程都执行完了,共用时:"+(end-start)+"ms");
     }
 
 
@@ -49,7 +49,7 @@ public class ThreadPool1 {
 
                 @Override
                 public void run() {
-                    System.out.println("hello");
+//                    System.out.println("hello");
                     count.countDown();
                 }
             });
@@ -67,7 +67,7 @@ public class ThreadPool1 {
 
 
 
-    public static void main(){
+    public static void main(String args[]){
 
         ThreadPool1 threadPool1 = new ThreadPool1();
 
