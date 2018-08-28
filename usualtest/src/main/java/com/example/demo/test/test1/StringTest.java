@@ -2,6 +2,8 @@ package com.example.demo.test.test1;
 
 import com.alibaba.fastjson.JSON;
 
+import java.math.BigDecimal;
+import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
@@ -25,6 +27,50 @@ public class StringTest {
         String tomark = frommark.replaceAll("\\d+", sb.toString());
 
         return idCard.substring(0, 2) + tomark + idCard.substring(idCard.length() - 2, idCard.length());
+    }
+
+
+    /**
+     * 得到几天前的时间
+     */
+    public static Date getDateBefore(Date inDate, int day) {
+        Calendar now = Calendar.getInstance();
+        now.setTime(inDate);
+        now.set(Calendar.DATE, now.get(Calendar.DATE) - day);
+        return now.getTime();
+    }
+
+    public static Date getdate(String date) {
+        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
+        try {
+            Date result = format.parse(date);
+            return result;
+        } catch (Exception e) {
+
+        }
+        return null;
+
+    }
+
+    public static void ListSort(List<DayBO> list) {
+        Collections.sort(list, new Comparator<DayBO>() {
+            @Override
+            public int compare(DayBO o1, DayBO o2) {
+                try {
+                    if (o1.getDate().getTime() > o2.getDate().getTime()) {
+                        return 1;
+                    } else if (o1.getDate().getTime() < o2.getDate().getTime()) {
+                        return -1;
+                    } else {
+                        return 0;
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                return 0;
+            }
+        });
     }
 
     public static void main(String[] args) {
@@ -85,14 +131,81 @@ public class StringTest {
 //        String key = "C002002001";
 //        System.out.println(key.substring(0, 10));
 //        System.out.println(key.length());
-        String str1 = null;
-        str1 = "," + "";
-        if (str1==",") {
-            System.out.println(1111);
+//        String str1 = null;
+//        str1 = "," + "";
+//        if (str1==",") {
+//            System.out.println(1111);
+//
+//        }
+//        System.out.println(str1);
+//        List<String> list = new ArrayList();
+////        list.add("111");
+//        for(String i : list){
+//            System.out.println(i);
+//        }
+//        String busiType = "[1,2]" ;
+//
+//        System.out.println(busiType);
+//
+//        Map<String,String>  map = new HashMap<>();
+//        map.put("busiType",busiType);
+//
+//        System.out.println(JSON.toJSONString(map));
 
+
+//        System.out.println(new BigDecimal("0.4").setScale(0, BigDecimal.ROUND_DOWN));
+//
+////        System.out.println(getDateBefore(new Date(),-1));
+//
+//        List<DayBO> list = new ArrayList<>();
+//
+//        DayBO dayBO = new DayBO();
+//
+//        dayBO.setId(1);
+//        dayBO.setDate(getdate("2018-01-01 00:00:00"));
+//
+//        list.add(dayBO);
+//
+//        DayBO dayBO1 = new DayBO();
+//
+//        dayBO1.setId(2);
+//        dayBO1.setDate(getdate("2018-01-01 00:01:01"));
+//
+//        list.add(dayBO1);
+//
+//        DayBO dayBO2 = new DayBO();
+//
+//        dayBO2.setId(4);
+//        dayBO2.setDate(getdate("2018-01-01 00:00:01"));
+//
+//        list.add(dayBO2);
+//
+//
+//        DayBO dayBO4 = new DayBO();
+//
+//        dayBO4.setId(5);
+//        dayBO4.setDate(getdate("2018-01-01 10:00:00"));
+//
+//        list.add(dayBO4);
+//
+//
+//        System.out.println(JSON.toJSONString(list));
+//        ListSort(list);
+//        System.out.println(JSON.toJSONString(list));
+
+
+        String top = "T_TOPIC";
+        String tag = "P_LOAN";
+
+        if(!top.equals("T_TOPIC") || !tag.equals("P_LOAN")){
+            System.out.println(111);
         }
-        System.out.println(str1);
+
+
+
 
 
     }
+
+
 }
