@@ -153,18 +153,30 @@ public class RemoveP {
         return null ;
     }
 
+    public static String convertPhone(String phone) {
+        String start = phone.substring(0, 3);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < 8; i++) {
+            sb.append("*");
+        }
+        String returnResult = start + sb.toString();
 
+        return returnResult;
+    }
 
 
 
     public static  void main(String[] args){
-        String a = "1,2,3,4,5,6,7,7";
-        String readFile = "E://0919.txt";
-        String writeFile = "";
-        //cat(duplicate(readFile(readFile)));
-       //System.out.println(catSql(duplicate(readFile(readFile))));
-        //System.out.println(cat(duplicate(readFile(readFile))));
-        System.out.println(catSql(duplicate(readFile(readFile))));
+//        String a = "1,2,3,4,5,6,7,7";
+//        String readFile = "E://0919.txt";
+//        String writeFile = "";
+//        //cat(duplicate(readFile(readFile)));
+//       //System.out.println(catSql(duplicate(readFile(readFile))));
+//        //System.out.println(cat(duplicate(readFile(readFile))));
+//        System.out.println(catSql(duplicate(readFile(readFile))));
+
+        System.out.println(convertPhone("1300001111"));
+
 
 
     }
