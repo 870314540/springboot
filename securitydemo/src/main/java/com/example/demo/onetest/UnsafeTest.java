@@ -75,7 +75,6 @@ public class UnsafeTest {
         System.out.println(field1.getName());
         System.out.println((User) field1.get(null));
 
-        System.out.println(1147018/100);
 
 //        System.out.println("===========================四种队列=====================");
 //        Executors.newCachedThreadPool();
