@@ -4,7 +4,7 @@ import com.example.demo.service.IHelloService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/5/30
  */

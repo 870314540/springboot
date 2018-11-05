@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/5/30
  */

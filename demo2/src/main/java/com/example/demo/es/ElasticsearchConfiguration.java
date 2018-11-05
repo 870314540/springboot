@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.beans.factory.annotation.Value;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/7/17
  */

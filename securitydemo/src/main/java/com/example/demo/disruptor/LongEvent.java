@@ -2,13 +2,15 @@ package com.example.demo.disruptor;
 
 
 import lombok.Getter;
+import lombok.Setter;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/10/29
  */
 @Getter
-public class LongEvent {
+@Setter
+public class LongEvent{
     private long value;
 }

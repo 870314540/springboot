@@ -3,7 +3,7 @@ package com.example.demo.disruptorTest.disDemo1;
 import sun.misc.Unsafe;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/10/16
  */

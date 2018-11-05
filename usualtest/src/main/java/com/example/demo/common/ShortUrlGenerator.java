@@ -1,7 +1,7 @@
 package com.example.demo.common;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/7/23
  * 算法一

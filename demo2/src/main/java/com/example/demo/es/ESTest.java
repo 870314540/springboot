@@ -6,7 +6,7 @@ import org.elasticsearch.action.get.GetResponse;
 import java.io.IOException;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/7/17
  */

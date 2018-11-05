@@ -3,7 +3,7 @@ package com.example.demo.disruptorTest.disDemo1;
 import com.lmax.disruptor.EventHandler;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/10/16
  */

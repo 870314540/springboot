@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 import org.springframework.beans.BeanUtils;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/7/27
  */

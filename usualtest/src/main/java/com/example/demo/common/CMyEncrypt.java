@@ -3,7 +3,7 @@ package com.example.demo.common;
 import java.security.MessageDigest;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/7/23
  */

@@ -1,7 +1,7 @@
 package com.example.demo.domain.bean;
 
 /**
- * @author cuiyt
+ * @author ThomasCui
  * @Descrption
  * @create 2018/7/17
  */
