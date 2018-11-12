@@ -164,7 +164,15 @@ public class RemoveP {
         return returnResult;
     }
 
-
+    public static int log2(int i)
+    {
+        int r = 0;
+        while ((i >>= 1) != 0)
+        {
+            ++r;
+        }
+        return r;
+    }
 
     public static  void main(String[] args){
 //        String a = "1,2,3,4,5,6,7,7";
@@ -175,7 +183,7 @@ public class RemoveP {
 //        //System.out.println(cat(duplicate(readFile(readFile))));
 //        System.out.println(catSql(duplicate(readFile(readFile))));
 
-        System.out.println(convertPhone("1300001111"));
+        System.out.println(log2(64));
 
 
 
