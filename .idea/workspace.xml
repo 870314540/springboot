@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac0f014-a005-4c3c-aac1-20d8c3776a78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventProducer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/controller/ESController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/controller/ESController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/domain/bean/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/domain/bean/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ESService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ESService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ESTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ElasticsearchConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ElasticsearchConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/DecordDes.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/DecordDes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/UnsafeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/UnsafeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/collection/ColTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/collection/ColTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/threadtest/pool/ThreadPool1.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/threadtest/pool/ThreadPool1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/common/CMyEncrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/common/CMyEncrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/common/ShortUrlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/common/ShortUrlGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/service/IHelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/service/IHelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/service/impl/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/service/impl/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/DayBO.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/DayBO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/TestReflect.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/TestReflect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/UserEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean2.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean3.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test4/WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test4/WordFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/testvolatile/TestV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/testvolatile/TestV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/db/target/" />
     <ignored path="$PROJECT_DIR$/securitydemo/target/" />
@@ -53,81 +20,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SingleProducerSequencer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SingleProducerSequencer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3196">
+              <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
+              <folding>
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#1115#1116#0" expanded="true" />
+                <element signature="e#1162#1163#0" expanded="true" />
+                <element signature="e#2148#2149#0" expanded="true" />
+                <element signature="e#2195#2196#0" expanded="true" />
+                <element signature="e#5895#5896#0" expanded="true" />
+                <element signature="e#5935#5936#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/RemoveP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3094">
+              <caret line="185" column="33" selection-start-line="185" selection-start-column="33" selection-end-line="185" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/securitydemo/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BitMapUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="190" column="62" selection-start-line="190" selection-start-column="62" selection-end-line="190" selection-end-column="62" />
+            <state relative-caret-position="68">
+              <caret line="217" column="70" selection-start-line="215" selection-start-column="6" selection-end-line="217" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongEventHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventHandler.java">
+      <file leaf-file-name="Byte.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Byte.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="100" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="100" />
+            <state relative-caret-position="340">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runtime.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
+      <file leaf-file-name="Number.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="623" column="18" selection-start-line="623" selection-start-column="15" selection-end-line="623" selection-end-column="18" />
+            <state relative-caret-position="425">
+              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Disruptor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/dsl/Disruptor.java">
+      <file leaf-file-name="SequenceBarrier.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SequenceBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="128" column="20" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicExecutor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/dsl/BasicExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="31" />
-              <folding>
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongEventMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EventHandler.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/event/EventHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Event.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/event/Event.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1770">
-              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="578">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -151,6 +130,9 @@
       <find>getIdCardAddress</find>
       <find>888469301135142918</find>
       <find>cuiyt</find>
+      <find>StringBu</find>
+      <find>ThomasCui</find>
+      <find>length</find>
     </findStrings>
     <replaceStrings>
       <replace>ThomasCui</replace>
@@ -162,12 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/service/IHelloService.java" />
-        <option value="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/service/impl/HelloService.java" />
-        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/CountDownTest.java" />
-        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/collection/ColTest.java" />
-        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/ExcelUtil.java" />
-        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/DesUtil.java" />
         <option value="$PROJECT_DIR$/demo2/.gitignore" />
         <option value="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/service/ElasticsearchCrudRepository.java" />
         <option value="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/service/BookRepository.java" />
@@ -201,7 +177,6 @@
         <option value="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java" />
         <option value="$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test4/WordFilter.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/DecordDes.java" />
-        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/RemoveP.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/Test1.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventFactory.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventHandler.java" />
@@ -213,6 +188,13 @@
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEvent.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventHandler.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventMain.java" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TradeHandler.java" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/Trade.java" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/RemoveP.java" />
+        <option value="$PROJECT_DIR$/securitydemo/.gitignore" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java" />
       </list>
     </option>
   </component>
@@ -246,7 +228,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="38" />
     <option name="y" value="23" />
     <option name="width" value="1402" />
@@ -261,6 +243,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,24 +295,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="securitydemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="threadtest" type="462c0819:PsiDirectoryNode" />
+              <item name="onetest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,14 +332,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongEventMain">
-    <configuration name="DecordDes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.FileProcess1.DecordDes" />
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="BitMapUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.common.BitMapUtil" />
       <module name="securitydemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.FileProcess1.*" />
+          <option name="PATTERN" value="com.example.demo.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -394,24 +366,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="UnsafeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.onetest.UnsafeTest" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.onetest.futuretest.Test1" />
       <module name="securitydemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.onetest.*" />
+          <option name="PATTERN" value="com.example.demo.onetest.futuretest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WordFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.test.test4.WordFilter" />
-      <module name="usualtest" />
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.disruptorTest.disruptor2.TestMain" />
+      <module name="securitydemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.test.test4.*" />
+          <option name="PATTERN" value="com.example.demo.disruptorTest.disruptor2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -542,19 +514,19 @@
       <item itemvalue="Spring Boot.SecuritydemoApplication" />
       <item itemvalue="Spring Boot.UsualtestApplication" />
       <item itemvalue="Spring Boot.SpringbootesApplication" />
-      <item itemvalue="Application.WordFilter" />
-      <item itemvalue="Application.DecordDes" />
       <item itemvalue="Application.RemoveP" />
-      <item itemvalue="Application.UnsafeTest" />
       <item itemvalue="Application.LongEventMain" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.BitMapUtil" />
+      <item itemvalue="Application.Test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongEventMain" />
-        <item itemvalue="Application.UnsafeTest" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.BitMapUtil" />
         <item itemvalue="Application.RemoveP" />
-        <item itemvalue="Application.DecordDes" />
-        <item itemvalue="Application.WordFilter" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.LongEventMain" />
       </list>
     </recent_temporary>
   </component>
@@ -604,6 +576,10 @@
       <workItem from="1540195593379" duration="6688000" />
       <workItem from="1540258233284" duration="909000" />
       <workItem from="1540799356278" duration="6509000" />
+      <workItem from="1541383760572" duration="6197000" />
+      <workItem from="1541576926140" duration="7631000" />
+      <workItem from="1542014752008" duration="2963000" />
+      <workItem from="1543828453783" duration="879000" />
     </task>
     <task id="LOCAL-00001" summary="volatile">
       <created>1527692081667</created>
@@ -647,11 +623,32 @@
       <option name="project" value="LOCAL" />
       <updated>1540212581589</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1541383915050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541383915050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#10;test">
+      <created>1542016016796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542016016796</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10;test">
+      <created>1542016068472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542016068472</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97428000" />
+    <option name="totallyTimeSpent" value="115098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -663,8 +660,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="38" y="23" width="1402" height="877" extended-state="0" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -679,19 +675,19 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3974359" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3272727" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32692307" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24848485" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2474359" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33575758" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.17167382" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33461538" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.2514706" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -699,6 +695,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -711,7 +708,8 @@
     <MESSAGE value="volatile" />
     <MESSAGE value="123" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="&#10;test" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -860,209 +858,74 @@
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="58" />
+      <option name="time" value="71" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ESService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/ElasticsearchConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="20" column="34" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="331" column="23" selection-start-line="331" selection-start-column="23" selection-end-line="331" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/threadtest/start/Thread1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/threadtest/start/StartTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="1171" column="22" selection-start-line="1171" selection-start-column="22" selection-end-line="1171" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/testvolatile/TestV1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/DayBO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/org/apdplat/word/1.3/word-1.3.jar!/org/apdplat/word/WordSegmenter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="21" selection-start-line="99" selection-start-column="7" selection-end-line="103" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test4/WordFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="37" column="42" selection-start-line="37" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/TestReflect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test1/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="197" column="30" selection-start-line="197" selection-start-column="30" selection-end-line="197" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/Bean3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usualtest/src/main/java/com/example/demo/test/test2/TestBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/jce.jar!/javax/crypto/CipherSpi.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/jce.jar!/javax/crypto/Cipher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="669" selection-start-line="669" selection-end-line="669" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/DecordDes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/RemoveP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="168" column="44" selection-start-line="168" selection-start-column="4" selection-end-line="168" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2.jar!/com/lmax/disruptor/EventHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="59" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disDemo1/LongEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1074,13 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2250">
           <caret line="160" column="35" selection-start-line="160" selection-start-column="31" selection-end-line="160" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="413" column="23" selection-start-line="413" selection-start-column="8" selection-end-line="413" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1102,20 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="77" selection-start-line="77" selection-end-line="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,28 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/threadtest/pool/ThreadPool1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1152,13 +972,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1755">
           <caret line="117" column="21" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/service/CustomUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1179,52 +992,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/event/EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/event/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1770">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="623" column="18" selection-start-line="623" selection-start-column="15" selection-end-line="623" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/dsl/BasicExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/dsl/Disruptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="128" column="20" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../../work/repository/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar!/ch/qos/logback/core/util/ExecutorServiceUtil.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="19" column="35" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#1642#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1235,10 +1006,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/dsl/Disruptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="190" column="62" selection-start-line="190" selection-start-column="62" selection-end-line="190" selection-end-column="62" />
+        <state relative-caret-position="238">
+          <caret line="116" column="109" lean-forward="true" selection-start-line="116" selection-start-column="109" selection-end-line="116" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8925">
+          <caret line="623" column="18" selection-start-line="623" selection-start-column="15" selection-end-line="623" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/event/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1249,13 +1041,273 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/management/ManagementFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="234" column="13" selection-start-line="234" selection-start-column="13" selection-end-line="234" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        <state relative-caret-position="-136">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/dsl/BasicExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="46" column="51" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/service/CustomUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/threadtest/pool/ThreadPool1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/Trade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/FatalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/BatchEventProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SequenceGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TradeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/YieldingWaitStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/EventFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEventFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptor/LongEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="142" column="5" selection-start-line="134" selection-start-column="3" selection-end-line="142" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="347" column="36" selection-start-line="347" selection-start-column="23" selection-end-line="347" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/AbstractSequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/disruptorTest/disruptor2/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/RingBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="407" column="27" selection-start-line="407" selection-start-column="25" selection-end-line="407" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/MultiProducerSequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="276" column="16" selection-start-line="276" selection-start-column="16" selection-end-line="276" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/ProcessingSequenceBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+          <folding>
+            <element signature="e#2142#2143#0" expanded="true" />
+            <element signature="e#2188#2189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#1994#1995#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2224#2225#0" expanded="true" />
+            <element signature="e#2252#2253#0" expanded="true" />
+            <element signature="e#2516#2517#0" expanded="true" />
+            <element signature="e#2580#2581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/Sequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SingleProducerSequencer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
+          <folding>
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#2148#2149#0" expanded="true" />
+            <element signature="e#2195#2196#0" expanded="true" />
+            <element signature="e#5895#5896#0" expanded="true" />
+            <element signature="e#5935#5936#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SequenceBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/FileProcess1/RemoveP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="185" column="33" selection-start-line="185" selection-start-column="33" selection-end-line="185" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Byte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="217" column="70" selection-start-line="215" selection-start-column="6" selection-end-line="217" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="154" column="7" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
