@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac0f014-a005-4c3c-aac1-20d8c3776a78" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/PhaserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/db/target/" />
@@ -23,7 +24,7 @@
       <file leaf-file-name="SingleProducerSequencer.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SingleProducerSequencer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3196">
+            <state relative-caret-position="3349">
               <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
               <folding>
                 <element signature="e#900#901#0" expanded="true" />
@@ -66,11 +67,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhaserTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/PhaserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +92,7 @@
       <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="2992">
               <caret line="217" column="70" selection-start-line="215" selection-start-column="6" selection-end-line="217" selection-end-column="70" />
             </state>
           </provider>
@@ -129,10 +143,11 @@
       <find>Y</find>
       <find>getIdCardAddress</find>
       <find>888469301135142918</find>
-      <find>cuiyt</find>
       <find>StringBu</find>
       <find>ThomasCui</find>
       <find>length</find>
+      <find>cuiyt</find>
+      <find>cui</find>
     </findStrings>
     <replaceStrings>
       <replace>ThomasCui</replace>
@@ -144,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo2/.gitignore" />
         <option value="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/service/ElasticsearchCrudRepository.java" />
         <option value="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/es/service/BookRepository.java" />
         <option value="$PROJECT_DIR$/demo2/src/main/java/com/example/demo/domain/bean/Book.java" />
@@ -195,6 +209,7 @@
         <option value="$PROJECT_DIR$/securitydemo/.gitignore" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java" />
         <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java" />
+        <option value="$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/PhaserTest.java" />
       </list>
     </option>
   </component>
@@ -244,7 +259,6 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,6 +315,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.PhaserTest">
     <configuration name="BitMapUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.common.BitMapUtil" />
       <module name="securitydemo" />
@@ -344,13 +359,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LongEventMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.disruptor.LongEventMain" />
+    <configuration name="PhaserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.onetest.PhaserTest" />
       <module name="securitydemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.disruptor.*" />
+          <option name="PATTERN" value="com.example.demo.onetest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -515,18 +530,18 @@
       <item itemvalue="Spring Boot.UsualtestApplication" />
       <item itemvalue="Spring Boot.SpringbootesApplication" />
       <item itemvalue="Application.RemoveP" />
-      <item itemvalue="Application.LongEventMain" />
       <item itemvalue="Application.TestMain" />
       <item itemvalue="Application.BitMapUtil" />
       <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.PhaserTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhaserTest" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.BitMapUtil" />
         <item itemvalue="Application.RemoveP" />
         <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.LongEventMain" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +594,8 @@
       <workItem from="1541383760572" duration="6197000" />
       <workItem from="1541576926140" duration="7631000" />
       <workItem from="1542014752008" duration="2963000" />
-      <workItem from="1543828453783" duration="879000" />
+      <workItem from="1543828453783" duration="1579000" />
+      <workItem from="1543976650972" duration="252000" />
     </task>
     <task id="LOCAL-00001" summary="volatile">
       <created>1527692081667</created>
@@ -644,11 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542016068472</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;test">
+      <created>1543830129400</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543830129400</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115098000" />
+    <option name="totallyTimeSpent" value="116050000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,6 +684,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1402" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -681,12 +705,13 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32884097" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32820514" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2474359" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2474359" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33461538" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33461538" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980315" visible="true" weight="0.2514706" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -695,7 +720,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -922,17 +946,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="71" />
+      <option name="time" value="72" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/Reflection.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2250">
@@ -979,9 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1195,10 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-          <folding>
-            <element signature="e#2142#2143#0" expanded="true" />
-            <element signature="e#2188#2189#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1206,14 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="e#1994#1995#0" expanded="true" />
-            <element signature="e#2065#2066#0" expanded="true" />
-            <element signature="e#2224#2225#0" expanded="true" />
-            <element signature="e#2252#2253#0" expanded="true" />
-            <element signature="e#2516#2517#0" expanded="true" />
-            <element signature="e#2580#2581#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1226,7 +1228,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../../work/repository/com/lmax/disruptor/3.4.2/disruptor-3.4.2-sources.jar!/com/lmax/disruptor/SingleProducerSequencer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3196">
+        <state relative-caret-position="3349">
           <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
           <folding>
             <element signature="e#900#901#0" expanded="true" />
@@ -1285,15 +1287,8 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="2992">
           <caret line="217" column="70" selection-start-line="215" selection-start-column="6" selection-end-line="217" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1304,10 +1299,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/common/BitMapUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/futuretest/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/securitydemo/src/main/java/com/example/demo/onetest/PhaserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
