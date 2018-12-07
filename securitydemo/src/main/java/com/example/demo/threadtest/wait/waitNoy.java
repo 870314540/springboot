@@ -11,18 +11,17 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * 原子类
  */
-public class waitNoy extends Thread{
+public class waitNoy extends Thread {
 
-      static AtomicInteger ai=new AtomicInteger(0);
-     // static int ai = 0 ;
+    static AtomicInteger ai = new AtomicInteger(0);
+    // static int ai = 0 ;
 
     public void run() {
         for (int m = 0; m < 1000000; m++) {
-             ai.getAndIncrement();
-          //  ai++ ;
+            ai.getAndIncrement();
+            //  ai++ ;
         }
     }
-
 
 
     public static void main(String[] args) throws InterruptedException {
@@ -34,12 +33,15 @@ public class waitNoy extends Thread{
 //        t2.start();
 //        Thread.sleep(500);
 //        System.out.println(waitNoy.ai.get());
-    //   System.out.println(waitNoy.ai );
+        //   System.out.println(waitNoy.ai );
         int q = 655555;
         System.out.println((q << 6) + (q << 5) + (q << 2));
-
-
-
+        while (true) {
+            for (int i = 0; i < 100; i++) {
+                if (i == 10) break;
+            }
+            System.out.println(111);
+        }
     }
 
 
