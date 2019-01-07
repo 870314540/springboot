@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/datapatten/datapatten.iml" filepath="$PROJECT_DIR$/datapatten/datapatten.iml" />
       <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/qr/qr.iml" filepath="$PROJECT_DIR$/qr/qr.iml" />

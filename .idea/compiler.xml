@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="datapatten" />
         <module name="db" />
         <module name="demo2" />
         <module name="qr" />
@@ -14,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="datapatten" target="1.5" />
       <module name="db" target="1.8" />
       <module name="demo2" target="1.8" />
       <module name="qr" target="1.8" />
