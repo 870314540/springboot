@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/2019" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -12,6 +15,7 @@
         <option value="$PROJECT_DIR$/usualtest/pom.xml" />
         <option value="$PROJECT_DIR$/demo2/pom.xml" />
         <option value="$PROJECT_DIR$/datapatten/pom.xml" />
+        <option value="$PROJECT_DIR$/2019/pom.xml" />
       </list>
     </option>
   </component>
