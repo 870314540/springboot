@@ -1,6 +1,5 @@
 package com.sugar.test.design.proxytest;
 
-import java.lang.reflect.Field;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
@@ -66,6 +65,10 @@ public class JDKDynamicProxy implements InvocationHandler {
         subject.printName();
 
         subject.printClass();
+
+        String t = null ;
+        String[] t1 = t.split(",");
+
      }
 
 
