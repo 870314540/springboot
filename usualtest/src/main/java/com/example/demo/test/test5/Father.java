@@ -32,6 +32,11 @@ public class Father {
      *
      *
      * 5 . 父类引用强转成为子类引用 Father father = new Son(); Son son1 = (Son) father;
+     * 向下转型      父类转子类，显示转换，并且必须确保该父类变量是子类的一个实例
+     *
+     *
+     * 6 Override 是多态，由运行时实际类决定，所以调用的是B类的方法而不是A类的方法。
+     *   Overload 是由编译器在编译时决定的，因为 ab 的声明类型为 A，所以会调用 show(A obj) 方法，编译类型一致。
      */
 }
 
