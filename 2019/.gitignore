@@ -1,29 +1,21 @@
-# maven ignore
-target/
-*.jar
-*.war
-*.zip
-*.tar
-*.tar.gz
-
-# eclipse ignore
-.settings/
-.project
-.classpath
-
-# idea ignore
+.idea
 .idea/
-*.ipr
 *.iml
-*.iws
-
-# temp ignore
+/bin/*
+*.class
+target/
+*/.classpath
+*/.project
+.settings
+*/bin
 *.log
-*.cache
-*.diff
-*.patch
-*.tmp
-
-# system ignore
+.project
 .DS_Store
-Thumbs.db
+src/.DS_Store
+src/main/.DS_Store
+src/main/webapp/.DS_Store
+src/main/webapp/WEB-INF/.DS_Store
+src/main/webapp/resources/.DS_Store
+webapp/.DS_Store
+webapp/WEB-INF/.DS_Store
+webapp/resources/.DS_Store
