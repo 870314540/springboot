@@ -2,9 +2,6 @@ package com.sugar.test.dubbo.javassistTest;
 
 import javassist.*;
 
-import java.util.HashMap;
-import java.util.concurrent.ConcurrentHashMap;
-
 /**
  * @author cuiyt
  * @Descrption
@@ -47,8 +44,5 @@ public class Example1 {
         cc.addConstructor(cons);
 
         cc.writeFile("/data/logs/case-bbb");
-
-        HashMap h = new HashMap();
-        ConcurrentHashMap m = new ConcurrentHashMap();
     }
 }
